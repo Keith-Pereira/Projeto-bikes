@@ -100,6 +100,32 @@ glimpse(cyclist_data)
 	
 	
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	bike_data $ date  <- as.Date( bike_data $ hora_partida )
 	bike_data $ mês  <- format(as.Date( bike_data $ data ), " %m " )
